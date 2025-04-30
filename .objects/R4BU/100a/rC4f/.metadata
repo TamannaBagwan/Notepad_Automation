@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Notepad_Automation.txt - Notepad",
+  "Type": "Screen",
+  "Id": "rC4f_8zhsESskuAmPPQDYQ",
+  "Reference": "sPLqEW0Vd0y2NWyZqeaPcA/rC4f_8zhsESskuAmPPQDYQ",
+  "ParentRef": "sPLqEW0Vd0y2NWyZqeaPcA/100aPpfi4EuyaGjqvh_tmA",
+  "Created": "2025-04-03T13:38:09.7007583Z",
+  "Updated": "2025-04-03T13:38:09.7007583Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

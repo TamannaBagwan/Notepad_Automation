@@ -1,2 +1,2 @@
 # Notepad_Automation
-Automates opening Notepad, entering text, and saving the file
+Automates opening Notepad, typing text, saving the file, and closing the application.
